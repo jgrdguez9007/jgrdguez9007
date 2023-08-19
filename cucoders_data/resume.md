@@ -6,10 +6,7 @@ Llevo varios años programando soluciones empresariales, actualmente me encuentr
 - Ingeniero en Ciencias Informáticas, 2009
 - Tesis: Simulación de Balances Térmicos y de Masas en Cilindros de ROTACIÓN HORIZONTAL
 
-
-
 ## 💼 Experiencia laboral
-
 ### Audita S. A., Holguín
 - Auditor IT y Desarrollador de SOFTWARE, 5 años
 - Auditorías IT
@@ -23,12 +20,10 @@ Llevo varios años programando soluciones empresariales, actualmente me encuentr
 - Desarrollo de Aplicaciones Web para el control de variables del proceso tecnológico de la Fábrica
 
 ## 💻 Habilidades
-
 - 💻 Desarrollo de Aplicaciones Web
 - Diseño y manejo de Bases de Datos Oracle, SQLServer, PostgreSQL, MySQL
-- C#, .Net Core, DevCraft
 - Java, JSF, JSP, JEE, JSE, PrimeFace
-- JS, Nodejs, React, Angular
+- JS, Nodejs, React, Angular, Express
 - Python, Flask, Django, Odoo
   
 ## 🌎 Idiomas
