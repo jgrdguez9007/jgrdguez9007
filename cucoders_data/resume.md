@@ -1,34 +1,28 @@
-## 💼 Administrador de Proyectos Informáticos
-Llevo varios años programando soluciones empresariales, actualmente me encuentro administrando un proyecto de migración a Odoo ERP.
+💼 IT Project Manager
+I have spent several years crafting enterprise solutions through programming and am currently engaged in managing a migration project to Odoo ERP.
 
-## 🎓 Educación
-### ISMM, Moa
-- Ingeniero en Ciencias Informáticas, 2009
-- Tesis: Simulación de Balances Térmicos y de Masas en Cilindros de ROTACIÓN HORIZONTAL
-
-## 💼 Experiencia laboral
-### Audita S. A., Holguín
-- Auditor IT y Desarrollador de SOFTWARE, 5 años
-- Auditorías IT
-- Venta de software de terceros y Asistencia Técnica
-- Desarrollo de software a la medida para las empresas 
-
-### Moanickel S.A., Moa
-- Administrador de Proyectos Informáticos, 1 año
-- Desarrollador de Aplicaciones Web para el control del proceso industrial, 3 años
-- Migración, personalización, diseño de flujos de trabajos, para la migración a Odoo ERP
-- Desarrollo de Aplicaciones Web para el control de variables del proceso tecnológico de la Fábrica
-
-## 💻 Habilidades
-- 💻 Desarrollo de Aplicaciones Web
-- Diseño y manejo de Bases de Datos Oracle, SQLServer, PostgreSQL, MySQL
-- Java, JSF, JSP, JEE, JSE, PrimeFace
-- JS, Nodejs, React, Angular, Express
-- Python, Flask, Django, Odoo
-  
-## 🌎 Idiomas
-
-- Español Nativo
-- Ingles A2
-
-## 🔗 @jorge-garcia-rodriguez-a404b0288
+🎓 Education
+*ISMM, Moa
+-Bachelor of Computer Science, 2009
+-Thesis: Thermal and Mass Balance Simulation in Horizontally Rotating Cylinders
+💼 Work Experience
+*Audita S. A., Holguín
+-IT Auditor and Software Developer, 5 years
+-IT Audits
+-Third-party software sales and technical assistance
+-Custom software development for businesses
+*Moanickel S.A., Moa
+-IT Project Manager, 1 year
+-Web Application Developer for industrial process control, 3 years
+-Migration, customization, workflow design for Odoo ERP migration
+-Web Application Development for controlling technological variables in the Factory's processes
+💻 Skills
+*Web Application Development
+*Design and management of Oracle, SQLServer, PostgreSQL, MySQL databases
+-Java, JSF, JSP, JEE, JSE, PrimeFace
+-JS, Nodejs, React, Angular, Express
+-Python, Flask, Django, Odoo
+🌎 Languages
+Native Spanish
+English B1
+🔗 @jorge-garcia-rodriguez-a404b0288
