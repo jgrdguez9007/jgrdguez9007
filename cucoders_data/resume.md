@@ -3,7 +3,7 @@ Llevo varios años programando soluciones empresariales, actualmente me encuentr
 
 ## 🎓 Educación
 ### ISMM, Moa
-- Ingeniero en Ciencias Informáticas, 2009
+- Ingeniero en Ciencias Informáticas, 2014
 - Tesis: Simulación de Balances Térmicos y de Masas en Cilindros de ROTACIÓN HORIZONTAL
 
 ## 💼 Experiencia laboral
@@ -14,7 +14,7 @@ Llevo varios años programando soluciones empresariales, actualmente me encuentr
 - Desarrollo de software a la medida para las empresas 
 
 ### Moanickel S.A., Moa
-- Administrador de Proyectos Informáticos, 1 año
+- Administrador de Proyectos Informáticos, 3 año
 - Desarrollador de Aplicaciones Web para el control del proceso industrial, 3 años
 - Migración, personalización, diseño de flujos de trabajos, para la migración a Odoo ERP
 - Desarrollo de Aplicaciones Web para el control de variables del proceso tecnológico de la Fábrica
